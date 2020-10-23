@@ -1,7 +1,7 @@
 {
   "name": "Heroku V2ray",
   "repository": "https://github.com/fbotp/heroku",
-  "description" :"ws, 64",
+  "description" :"network: ws; alterId:64",
   "keywords": ["heroku", "v2ray"],
   "env": {
     "UUID": {
