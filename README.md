@@ -1,7 +1,7 @@
-~~Click to Deploy～～
+~Click to Deploy~
 
-~~[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ffbotp%2Fheroku)～～
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Ffbotp%2Fheroku) -->
 
-~~默认UUID：f8074d02-af70-46d5-a0f1-9a1b73499817～～
+~默认UUID：f8074d02-af70-46d5-a0f1-9a1b73499817~
 
-当前似乎不能用了已经
+## 当前似乎不能用了已经
